@@ -1,0 +1,19 @@
+body {
+  font-family: arial;
+}
+
+label, input {
+  display: block;
+}
+
+h1 {
+  /* tamanho do elemento = imagem */
+  width: 320px;
+  height: 100px;
+
+  /* imagem como fundo */
+  background-image: url(../img/logo.png);
+
+  /* retirando o texto da frente */
+  text-indent: -9999px;
+}

@@ -1,0 +1,105 @@
+body {
+  font-family: arial;
+  margin: 0;
+}
+
+label, input {
+  display: block;
+}
+
+header {
+  border-bottom: 2px solid gray;
+}
+
+header h1 {
+  /* tamanho do elemento = imagem */
+  width: 320px;
+  height: 100px;
+  margin-left: 10px;
+
+  /* imagem como fundo */
+  background-image: url(../img/logo-grande.png);
+
+  /* retirando o texto da frente */
+  text-indent: -9999px;
+  display: inline-block;
+}
+
+form {
+  margin: 20px;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 4px;
+}
+
+input {
+  border: 2px solid #999;
+  border-radius: 6px;
+  padding: 3px;
+}
+
+#gravar {
+ background: #91bd3c; 
+ font-size: 18px;
+ margin-top: 9px;
+ margin-bottom: 20px;
+ padding: 10px;
+}
+
+#gravar:hover {
+  color: white;
+}
+
+footer  {
+  margin-top: 115px;
+  background: #242448;
+  display: block;
+  padding: 20px 0 43px 10px;
+}
+
+footer * {
+  display: inline-block;
+}
+
+footer h3 {
+  width: 160px;
+  height: 50px;
+  background-image: url(../img/logo-pequeno.png);
+  text-indent: -9999px;
+}
+
+footer nav ul li {
+}
+
+footer nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  line-height: 10px;
+  display: inline;
+}
+
+.social {
+  margin-right: 32px;
+}
+
+.social div {
+  height: 29px;
+  width: 32px;
+
+  text-indent: -9999px; 
+  position: relative;
+}
+
+.blog {
+  background-image: url(../img/rss.png);
+}
+
+.twitter {
+  background-image: url(../img/twitter.png);
+}
+
+.facebook {
+  background-image: url(../img/facebook.png);
+}
+

@@ -1,0 +1,30 @@
+header {
+	border-bottom: 1px dashed gray;
+}
+
+a {
+	outline: none;
+}
+
+.social {
+	margin-right: 37px;
+}
+
+.social div {
+	height: 29px;
+	width: 32px;
+	text-indent: -9999px;
+	position: relative;
+}
+
+.blog {
+	background-image: url(../img/rss.png);
+}
+
+.twitter {
+	background-image: url(../img/twitter.png);
+}
+
+.facebook {
+	background-image: url(../img/facebook.png);
+}

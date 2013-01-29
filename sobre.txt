@@ -5,7 +5,7 @@ Sobre o workshop:
 Andamento:
 
 	1) Apresentar o projeto simples, falar do HTML não semantico, mostrar o CSS básico
-	2) Motivar o uso de HTML5 semantico, falando dos problemas de SEO e ensinando a usar header e footer
+	2) Motivar o uso de HTML5 semantico, falando dos problemas de SEO e ensinando a usar header, footer e section
 	3) Estilizar o header. Motivar o uso de image replacement 
 	4) Estilizar o formulário, sem modificar os tipos dos inputs
 	5) Estilizar o footer semm image replacement

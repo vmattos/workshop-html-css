@@ -11,3 +11,8 @@ Andamento:
 	5) Estilizar o footer semm image replacement
 	6) Alterar os types dos inputs
 	7) Image replacement no footer
+	8) Mostrar design responsivo
+
+TO-DO:
+	
+	1) Procurar alguma métrica para SEO

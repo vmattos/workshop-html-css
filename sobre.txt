@@ -8,7 +8,7 @@ Andamento:
  FEITO 	2) Motivar o uso de HTML5 semantico, falando dos problemas de SEO e ensinando a usar header, footer e section 
  FEITO	3) Estilizar o header. Motivar o uso de image replacement 
  FEITO	4) Estilizar o formulário, sem modificar os tipos dos inputs
-	5) Estilizar o footer semm image replacement na lista
+ FEITO	5) Estilizar o footer semm image replacement na lista
 	6) Alterar os types dos inputs
 	7) Image replacement no footer
 	8) Mostrar design responsivo

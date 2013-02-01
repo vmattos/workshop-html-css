@@ -9,7 +9,7 @@ Andamento:
  FEITO	3) Estilizar o header. Motivar o uso de image replacement 
  FEITO	4) Estilizar o formulário, sem modificar os tipos dos inputs
  FEITO	5) Estilizar o footer semm image replacement na lista
-	6) Alterar os types dos inputs
+ FEITO	6) Alterar os types dos inputs
 	7) Image replacement no footer
 	8) Mostrar design responsivo
 

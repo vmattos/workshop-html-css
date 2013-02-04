@@ -10,7 +10,7 @@ Andamento:
  FEITO	4) Estilizar o formulário, sem modificar os tipos dos inputs
  FEITO	5) Estilizar o footer semm image replacement na lista
  FEITO	6) Alterar os types dos inputs
-	7) Image replacement no footer
+ FEITO	7) Image replacement no footer
  FEITO	8) Mostrar design responsivo
 
 TO-DO:

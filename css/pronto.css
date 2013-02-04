@@ -53,13 +53,9 @@ input {
 footer  {
   margin-top: 115px;
   background: #242448;
-  display: block;
   padding: 20px 0 43px 10px;
 }
 
-footer * {
-  display: inline-block;
-}
 
 footer h3 {
   width: 160px;
@@ -68,38 +64,34 @@ footer h3 {
   text-indent: -9999px;
 }
 
-footer nav ul li {
+footer * {
+  display: inline-block;
 }
 
 footer nav ul li a {
   text-decoration: none;
-  color: white;
+  color: red;
   font-size: 20px;
   line-height: 10px;
-  display: inline;
+  height: 32px;
+  width: 32px;
+  text-indent: -999px; 
+  outline: none;
 }
 
 .social {
   margin-right: 32px;
 }
 
-.social div {
-  height: 29px;
-  width: 32px;
-
-  text-indent: -9999px; 
-  position: relative;
-}
-
-.blog {
+.blog a {
   background-image: url(../img/rss.png);
 }
 
-.twitter {
+.twitter a {
   background-image: url(../img/twitter.png);
 }
 
-.facebook {
+.facebook a {
   background-image: url(../img/facebook.png);
 }
 
